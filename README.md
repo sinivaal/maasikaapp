@@ -1,4 +1,4 @@
-# Maasikas
+# Maasikastest
 A calendar to track your menstruation and calculate possible fertile days
 
 Copyright (C) 2012-2018 Arno Welzel
